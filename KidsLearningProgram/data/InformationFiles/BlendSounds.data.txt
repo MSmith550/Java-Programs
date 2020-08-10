@@ -1,0 +1,17 @@
+DR
+CH
+SH
+TH
+BR
+GR
+FR
+PR
+SP
+BL
+GL
+SN
+CR
+SL
+FL
+TR
+AM
